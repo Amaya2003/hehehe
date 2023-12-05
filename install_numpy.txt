@@ -1,0 +1,8 @@
+pip install --upgrade pip
+
+pip install numpy
+
+sudo apt install git
+git clone https://github.com/Amaya2003/hehe
+
+python -c "import numpy as np; print(np.__version__)"
